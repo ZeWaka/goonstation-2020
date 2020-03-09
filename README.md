@@ -1,51 +1,24 @@
+# Goonstation ![](https://i.imgur.com/mvQFRZm.png)
 
-# GOONSTATION 2020 #
+![resentment](https://forthebadge.com/images/badges/built-with-resentment.svg) ![technicaldebt](https://forthebadge.com/images/badges/contains-technical-debt.svg) ![forinfinityandbyond](https://user-images.githubusercontent.com/5211576/29499758-4efff304-85e6-11e7-8267-62919c3688a9.gif)
 
-Official release of goonstation from 2020-01-01, based on revision aef0c56.
+**Website:** [goonhub.com](https://goonhub.com)
+**Forums:** [forums.ss13.co](https://forums.ss13.co)
+**Wiki:** [wiki.ss13.co](https://wiki.ss13.co)
+**Goonstation Discord:** [0117EEzASKYV2vtek](https://discord.gg/0117EEzASKYV2vtek)
 
-This repository may or may not be updated in the future.
+This is the codebase for the Goonstation branch of [Space Station 13](https://spacestation13.com/).
 
-See our statement [here](https://docs.google.com/document/d/1uQMvMn6KL2oUfLIjpt1var_gNlrtG__LOdRlBk1mnwk)
+Space Station 13 is a community developed, multiplayer round-based role playing game, where players assume the role of a crewmember on a space station. Together they must keep the station running smoothly, whilst dealing with antagonistic forces who threaten to sabotage the mission.
 
-## Pull Requests ##
+## Downloading
 
-You are welcome to fork this repository and accept pull requests for your fork.
+[Goonstation Development Guide](https://hackmd.io/@ZeWaka/goondev)
 
-We will be continuing to develop Goonstation as a closed-source project. Maintaining both this source tree and our private one would be more of an investment in terms of time and effort than we are willing to undertake.
+## Contributing
 
-If you wish to contribute to Goonstation, and would like to submit patches, bugfixes, or other source code improvements, please visit the [Patches subforum](http://forum.ss13.co/forumdisplay.php?fid=30) at [ss13.co](http://forum.ss13.co).
+[Contributor Guidelines](https://github.com/goonstation/goonstation/CONTRIBUTING.md)
 
-
-## License ##
-
-All contributions to this repository are licensed for use under the Creative Commons BY-NC-SA 3.0 licence. Please see the LICENSE file for more information.
-
-
-### Bee ###
-
-```
-:::text
-                .-..-.``        ```````            
-  .........`   s-`../-...`  `...........`         
-o+`        `-` ``..-:yooos-..----------..`        
-             .-`osyyyhssyh:.............-         
-            `+hh+/::::s::::::/oyysssys-`          
-          .sh+:o/:::::s:::::::::+yNNNNNs.         
-         od+:::++:::::s:::::::::::/yNNNmdy`       
-       .ds::::::+:::::/:::::::::::::/dNNNhd-      
-      `d+////::::::::::://///::::::::/hNNNym.     
-      ddmNNNNmy/::::::/ymNNNNds/::::::/dNNNsd`    
-     :MNNNNNNNNm+::::+mNNNNNNNNd/::::::oNNNydyooyy
-     yNNNs::sNNNy::::dNNh/:/mNNN+:::::::mNNdsMNNd-
-     dNNd....dNN+::::+NN:...oNNd/:::::::mNNNoNs:  
-     yyymdoodNd+::::::+hmyoyNNh/::::::::mNNdsh    
-     /m://ooo/::::::::::/+oo+/:::::::::/NNNhd/    
-      ds::::::::++:::/++:::::::::::::::sNNNhm`    
-      .m+::::::::+++++/:::::::::::::::/NNNNm-     
-       .do:::::::::::::::::::::::::::/mNNNN:      
-        `yh+::::::::::::::::::::::::/mNMMyd-      
-          .ydo/::::::::::::::::::::oNNmds :d      
-           .N:+yhyso//::::::://+osyyN- /h  N`     
-           .N   y:-:++osssssso++:`  M` :s         
-           `d.                     .d`
-```
+## LICENSE
+All Goonstation contributions are licensed under [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/).
+See LICENSE for more details.
