@@ -1,7 +1,6 @@
 # Goonstation ![](https://i.imgur.com/mvQFRZm.png)
 
-![contains resentment](https://forthebadge.com/images/badges/built-with-resentment.svg)![contains technicaldebt](https://forthebadge.com/images/badges/contains-technical-debt.svg)
-![made in byond](https://user-images.githubusercontent.com/5211576/29499758-4efff304-85e6-11e7-8267-62919c3688a9.gif)
+![contains resentment](https://forthebadge.com/images/badges/built-with-resentment.svg)![contains technicaldebt](https://forthebadge.com/images/badges/contains-technical-debt.svg)![made in byond](https://user-images.githubusercontent.com/5211576/29499758-4efff304-85e6-11e7-8267-62919c3688a9.gif)
 
 **Website:** [goonhub.com](https://goonhub.com)
 
