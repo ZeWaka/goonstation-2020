@@ -4,7 +4,7 @@
  */
 
 //praise king foo and king json
-//yay!
+//yay! but 2x
 
 //everything here is wip, this can also be ascertained by the location of this file
 
